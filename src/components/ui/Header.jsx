@@ -12,6 +12,7 @@ const Header = ({ isCollapsed = false, onToggleSidebar }) => {
     { path: '/ai-chatbot-interface', label: 'AI Support', icon: 'MessageCircle' },
     { path: '/counselor-booking', label: 'Book Counselor', icon: 'Calendar' },
     { path: '/peer-support-forum', label: 'Peer Forum', icon: 'Users' },
+    { path: '/resources', label: 'Resources', icon: 'Users' },
   ];
 
   const secondaryItems = [
