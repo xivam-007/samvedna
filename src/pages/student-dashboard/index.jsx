@@ -17,7 +17,7 @@ const StudentDashboard = () => {
 
   // Mock user data
   const userData = {
-    name: "Priya Sharma",
+    name: "Rahul sharma",
     lastLogin: new Date(Date.now() - 2 * 60 * 60 * 1000), // 2 hours ago
     anonymityLevel: "secure"
   };
