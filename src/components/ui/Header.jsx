@@ -29,7 +29,7 @@ const Header = ({ isCollapsed = false, onToggleSidebar }) => {
       </div>
       <div className="flex flex-col">
         <span className="font-heading font-semibold text-lg text-text-primary">
-          MindBridge
+          Samvedna
         </span>
         <span className="font-caption text-xs text-text-secondary -mt-1">
           Mental Health Support

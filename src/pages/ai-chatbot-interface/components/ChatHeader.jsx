@@ -32,7 +32,7 @@ const ChatHeader = ({ onClearChat, onToggleLanguage, currentLanguage = 'en', isO
           
           <div>
             <h1 className="font-heading font-semibold text-lg text-text-primary">
-              MindBridge AI
+              Samvedna AI
             </h1>
             <div className="flex items-center space-x-2">
               <div className={`w-2 h-2 rounded-full ${isOnline ? 'bg-success animate-breathing' : 'bg-muted'}`}></div>

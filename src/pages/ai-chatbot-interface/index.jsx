@@ -25,7 +25,7 @@ const AIChatbotInterface = () => {
   const initialMessages = [
     {
       id: 1,
-      message: `Namaste! I'm MindBridge AI, your personal mental health companion. I'm here to provide support, coping strategies, and connect you with resources whenever you need them.\n\nHow are you feeling today? You can share anything that's on your mind - I'm here to listen and help.`,
+      message: `Namaste! I'm Samvedna AI, your personal mental health companion. I'm here to provide support, coping strategies, and connect you with resources whenever you need them.\n\nHow are you feeling today? You can share anything that's on your mind - I'm here to listen and help.`,
       isUser: false,
       timestamp: new Date(Date.now() - 300000)
     }
